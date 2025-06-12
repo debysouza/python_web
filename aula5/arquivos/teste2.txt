@@ -1,0 +1,2 @@
+Este é um exemplo de arquivo criado com Python.
+Estamos quase na hora do intervalo!!
